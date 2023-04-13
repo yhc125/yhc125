@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-
-<!--
-**yhc125/yhc125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### 🛠 &nbsp;Tech Stack
 
 <img src="https://img.shields.io/badge/Solidity-3766AB?style=flat-square&logo=Solidity&logoColor=white"/></a>
@@ -24,6 +20,10 @@
 ### ⚙️ &nbsp;GitHub Analytics
 ![yhc125's GitHub stats](https://github-readme-stats.vercel.app/api?username=yhc125&show_icons=true&theme=radical)
 Here are some ideas to get you started:
+<!--
+**yhc125/yhc125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
