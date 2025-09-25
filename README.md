@@ -16,8 +16,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
-### ⚙️ &nbsp;GitHub Analytics
-![yhc125's GitHub stats](https://github-readme-stats.vercel.app/api?username=yhc125&show_icons=true&theme=radical)
 
 <!--
 **yhc125/yhc125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
